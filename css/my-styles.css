@@ -1,0 +1,26 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+header {
+	}
+body{
+	}
+.navbar-inverse .navbar-nav>li>a {
+    color: #DC4B25;
+}
+
+	
+	
+  .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
+	
+	
+	
