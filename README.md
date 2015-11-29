@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Assignment_1
 Assignment_1 Bills bike shop
 
@@ -12,3 +13,7 @@ Javascript: Integrate a Carousel with images related to your theme (Minimum of 4
 JavaScript: Create an accordion highlighting some features about your theme (Minimum of 4 features, Title must be real, content can be fake)
 Did you follow content rules by having the headers named after your theme and lorum ipsum everywhere else?
 
+=======
+# Project 2
+Responsive Website (Multiple pages with styling done using SCSS)
+>>>>>>> 0f8ad705e10b6efecbea7e6cf55d8050496400c4

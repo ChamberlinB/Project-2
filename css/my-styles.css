@@ -8,12 +8,55 @@ body {
 
 header {
 	}
+<<<<<<< HEAD
 body{
 	}
 .navbar-inverse .navbar-nav>li>a {
     color: #DC4B25;
 }
 
+=======
+.background{
+	
+		background-image:url(../images/background.jpg); 
+		background-size:100%;
+		background-repeat:no-repeat;
+		height: 140px;
+		display:block;
+		padding:0 !important;
+		margin:0;
+		float: none;
+	}
+
+/*-----HEADER SOCIAL ICONS-----*/
+	header ul.social {
+		float:right;
+		display:block;
+		list-style-type: none;
+		padding: 20px;
+	}
+	header ul.social li {
+		float: left;
+	}
+	ul.social li a {
+		display:block;
+		background-image:url(../images/icons.png); 
+		width:60px;
+		height: 60px;list-style-type: none;
+	}
+	
+	/*first value is X, second value is Y*/
+	ul.social .googleplus a {background-position:0px 60px;}
+	ul.social .deviantart a  {background-position:-60px 60px;}
+	ul.social .facebook a {background-position:-120px 60px;}
+	ul.social .twitter a {background-position:-180px 60px;}
+	
+	
+	ul.social .googleplus a:hover {background-position:-0px 0px;}
+	ul.social .deviantart a:hover  {background-position:-60px 0px;}
+	ul.social .facebook a:hover {background-position:-120px 0px;}
+	ul.social .twitter a:hover {background-position:-180px 0px;}
+>>>>>>> 0f8ad705e10b6efecbea7e6cf55d8050496400c4
 	
 	
   .carousel-inner > .item > img,
