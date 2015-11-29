@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Assignment_1
 Assignment_1 Bills bike shop
 
@@ -17,3 +18,7 @@ Did you follow content rules by having the headers named after your theme and lo
 # Project 2
 Responsive Website (Multiple pages with styling done using SCSS)
 >>>>>>> 0f8ad705e10b6efecbea7e6cf55d8050496400c4
+=======
+# Project-2
+Responsive Website (Multiple pages with styling done using SCSS)
+>>>>>>> f48d48042bba08a332ad35937166c4a679739603
