@@ -8,14 +8,12 @@ body {
 
 header {
 	}
-<<<<<<< HEAD
 body{
 	}
 .navbar-inverse .navbar-nav>li>a {
     color: #DC4B25;
 }
-
-=======
+/*--
 .background{
 	
 		background-image:url(../images/background.jpg); 
@@ -27,7 +25,7 @@ body{
 		margin:0;
 		float: none;
 	}
-
+	--*/
 	
 	
   .carousel-inner > .item > img,
