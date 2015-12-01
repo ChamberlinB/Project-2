@@ -6,37 +6,31 @@ body {
   padding: 40px 15px;
   text-align: center; }
 
-.navbar-default .navbar-nav {
-  float: right;
-  color: #666; }
-  .navbar-default .navbar-nav li a {
-    color: #DC4B25; }
+.navbar-inverse .navbar-nav li a {
+  color: #DC4B25; }
 
 .background {
-  background-image: url(../images/background.jpg);
+  /*---
+  background-image:url(../images/background.jpg); 
+  */
   background-size: 100%;
   background-repeat: no-repeat;
-  height: 240px;
+  height: 140px;
   display: block;
   padding: 0 !important;
   margin: 0;
   float: none; }
 
-.carousel-inner .item img .item a img,
-.carousel-inner .item a img {
-  width: 70%;
-  margin: auto; }
-
 /* Scss Document */
 /*-----HEADER SOCIAL ICONS-----*/
-footer ul.social {
+header ul.social {
   float: right;
   display: block;
   list-style-type: none;
   padding: 20px; }
-  footer ul.social li {
+  header ul.social li {
     float: left; }
-    footer ul.social li a {
+    header ul.social li a {
       display: block;
       background-image: url(../images/icons2.png);
       width: 60px;
@@ -67,5 +61,10 @@ ul.social .facebook a:hover {
 
 ul.social .twitter a:hover {
   background-position: -180px 0px; }
+
+.carousel-inner .item img .item a img,
+.carousel-inner .item a img {
+  width: 70%;
+  margin: auto; }
 
 /*# sourceMappingURL=my-styles.css.map */
