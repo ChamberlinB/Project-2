@@ -28,16 +28,18 @@ body {
 
 header {
 	}
-.background{
-		background-image:url(../images/background.jpg); 
-		background-size:100%;
-		background-repeat:no-repeat;
-		height: 240px;
-		display:block;
-		padding:0 !important;
-		margin:0;
-		float: none;
-	}
+.color_bar{
+	background-color: $main-color;
+	height: 5px;
+	widthe: 4000px;
+
+}
+
+.img-responsive.center{
+
+  margin-right: auto;
+  margin-left: auto;
+}
 	
 // social.scss contains example of nesting//
 	
