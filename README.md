@@ -1,6 +1,5 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 # Assignment_1
 Assignment_1 Bills bike shop
 
@@ -23,7 +22,3 @@ Responsive Website (Multiple pages with styling done using SCSS)
 # Project-2
 Responsive Website (Multiple pages with styling done using SCSS)
 >>>>>>> f48d48042bba08a332ad35937166c4a679739603
-=======
-# NeedfulSweets
-Your place for sinfully delicious pastry treats!fully deliciosoue
->>>>>>> ccca442ff3f36eb632c2911de5d0afdd6c33b2e0
